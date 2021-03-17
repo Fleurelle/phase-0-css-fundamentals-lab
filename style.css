@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+/*For navigation links*/
+nav a{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color:papayawhip;
+  background-repeat: no-repeat;
+}
+
+/*Text block within featured-property*/
+ #featured-property figure{
+  text-align: center; 
+  font-size:large;
+}
+
+#featured-property p{
+  text-align: center;
+  font-size: large;
+  width: 800px;
+  margin-left: 24%;
+}
+
+/*Details section*/
+#details div{
+  float: left;
+  background-color: red;
+  width: 25%;
+  margin-bottom: auto;
+  align-items: center;
+  font-size: small;
+  text-align: center;
+
+  
+  
+}
+
